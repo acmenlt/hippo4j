@@ -25,6 +25,8 @@ GitHub：[opengoofy/hippo4j](https://github.com/opengoofy/hippo4j)
 
 Gitee：[opengoofy/hippo4j](https://gitee.com/magestack/hippo4j)
 
+GitCode：[opengoofy/hippo4j](https://gitcode.com/opengoofy/hippo4j)
+
 For full documentation & more details, visit: [Docs](https://www.hippo4j.cn)
 
 ### 线程池痛点
