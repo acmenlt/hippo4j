@@ -34,7 +34,7 @@ Client 端指的是我们 SpringBoot 应用，通过引入 Hippo4j Starter Jar �
 
 对接前端项目，包括不限于以下模块管理：
 
-![](https://images-machen.oss-cn-beijing.aliyuncs.com/image-20211107122504126.png)
+![](https://oss.open8gu.com/image-20211107122504126.png)
 
 ## 消息通知（Notify）
 
@@ -48,4 +48,4 @@ Hippo4j 内置了很多需要通知的事件，比如：线程池参数变更通
 
 ## 功能架构
 
-![](https://images-machen.oss-cn-beijing.aliyuncs.com/image-20211105230953626.png)
+![](https://oss.open8gu.com/image-20211105230953626.png)

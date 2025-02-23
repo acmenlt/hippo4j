@@ -29,7 +29,7 @@
   },
   "link.item.label.Group": {
     "message": "Group",
-    "description": "The label of footer link with label=Group linking to https://hippo4j.cn/group"
+    "description": "The label of footer link with label=Group linking to http://hippo4j.cn/group"
   },
   "link.item.label.WeChat": {
     "message": "WeChat",
@@ -45,7 +45,7 @@
   },
   "link.item.label.推广合作": {
     "message": "推广合作",
-    "description": "The label of footer link with label=推广合作 linking to https://hippo4j.cn/docs/user_docs/other/operation"
+    "description": "The label of footer link with label=推广合作 linking to http://hippo4j.cn/docs/user_docs/other/operation"
   },
   "copyright": {
     "message": "Copyright © 2021-2023 马丁版权所有 <a href=\"https://beian.miit.gov.cn\">京ICP备2021038095号\n</a>",

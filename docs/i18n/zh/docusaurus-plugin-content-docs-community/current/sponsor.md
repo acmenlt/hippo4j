@@ -8,7 +8,7 @@ sidebar_position: 6
 
 在这里承诺将，将收到的所有赞助支持资金完全公开化，且后续资金用途仅 Hippo4j 项目的运转。
 
-![](https://images-machen.oss-cn-beijing.aliyuncs.com/IMG_6719_2.jpg?x-oss-process=image/resize,h_180,w_180)
+![](https://oss.open8gu.com/IMG_6719_2.jpg?x-oss-process=image/resize,h_180,w_180)
 
 感谢给予支持的朋友，您的支持是 Hippo4j 社区前进的动力 🎉
 

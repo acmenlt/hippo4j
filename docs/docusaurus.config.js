@@ -129,7 +129,7 @@ const config = {
             position: 'left',
           },
           {
-            href: 'https://magestack.cn',
+            href: 'https://nageoffer.com',
             label: '🚀 拿个offer',
             position: 'left',
           },
@@ -184,7 +184,7 @@ const config = {
             items: [
               {
                 label: 'Group',
-                href: 'https://hippo4j.cn/group',
+                href: 'http://hippo4j.cn/group',
               },
               {
                 label: 'WeChat',
@@ -210,7 +210,7 @@ const config = {
             items: [
               {
                 label: '推广合作',
-                href: 'https://hippo4j.cn/docs/user_docs/other/operation',
+                href: 'http://hippo4j.cn/docs/user_docs/other/operation',
               },
             ],
           },

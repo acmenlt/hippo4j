@@ -36,7 +36,7 @@ Contributor 是对 Hippo4j 项目有贡献的个人，标准为：
 
 ### 4. 开发者权利及义务
 
-![](https://images-machen.oss-cn-beijing.aliyuncs.com/image-20230412144105059.png)
+![](https://oss.open8gu.com/image-20230412144105059.png)
 
 ## 开发团队
 
@@ -148,4 +148,4 @@ Contributor 是对 Hippo4j 项目有贡献的个人，标准为：
 
 截至 `2022-10-30` 当天，已为登记的 7 位 Committer 成功申请 Licenses。
 
-![](https://images-machen.oss-cn-beijing.aliyuncs.com/image-20221030134303060.png)
+![](https://oss.open8gu.com/image-20221030134303060.png)

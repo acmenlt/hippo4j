@@ -12,7 +12,7 @@ sidebar_position: 1
 
 想给项目起一个简单易记的名字，类似于 Eureka、Nacos、Redis；后和朋友商量，决定命名：**Hippo4j**。
 
-![](https://images-machen.oss-cn-beijing.aliyuncs.com/动态线程池功能架构-1.jpg)
+![](https://oss.open8gu.com/动态线程池功能架构-1.jpg)
 
 ## 它解决了什么问题
 

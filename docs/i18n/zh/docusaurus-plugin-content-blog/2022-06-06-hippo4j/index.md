@@ -78,13 +78,13 @@ Hippo4j 1.3.0 最大的功能发布就是开发出了 **适配三方框架的基
 
 Hippo4j server 引入上述适配 jar 包后，即可在 Hippo4j server 的控制台进行查看及修改三方框架线程池。
 
-![图1 线程池适配列表](https://images-machen.oss-cn-beijing.aliyuncs.com/image-20220531194810047.png)
+![图1 线程池适配列表](https://oss.open8gu.com/image-20220531194810047.png)
 
 
 
 点击编辑即可修改该 Java 应用对应的框架底层线程池。
 
-![图2 修改三方线程池](https://images-machen.oss-cn-beijing.aliyuncs.com/image-20220605152549732.png)
+![图2 修改三方线程池](https://oss.open8gu.com/image-20220605152549732.png)
 
 
 
@@ -118,7 +118,7 @@ spring:
 
 Hippo4j 获得了一些宝贵的荣誉，这属于每一位对 Hippo4j 做出过贡献的成员。
 
-![图3 GVP 证书](https://images-machen.oss-cn-beijing.aliyuncs.com/170607238-7308c9be-1d63-46a6-852c-eef2e4cf7405.jpeg)
+![图3 GVP 证书](https://oss.open8gu.com/170607238-7308c9be-1d63-46a6-852c-eef2e4cf7405.jpeg)
 
 
 
@@ -126,7 +126,7 @@ Hippo4j 获得了一些宝贵的荣誉，这属于每一位对 Hippo4j 做出过
 
 https://github.com/opengoofy/hippo4j/graphs/contributors
 
-![图4 Hippo4j 开发者](https://images-machen.oss-cn-beijing.aliyuncs.com/image-20220605151136276.png)
+![图4 Hippo4j 开发者](https://oss.open8gu.com/image-20220605151136276.png)
 
 
 

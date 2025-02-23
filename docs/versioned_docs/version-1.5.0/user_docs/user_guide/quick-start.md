@@ -22,7 +22,7 @@ docker run -d -p 6691:6691 --name hippo4j-server hippo4j/hippo4j-server
 
 访问控制台动态线程池菜单下线程池实例，修改动态线程池相关参数。
 
-![](https://images-machen.oss-cn-beijing.aliyuncs.com/image-20220813173811668.png)
+![](https://oss.open8gu.com/image-20220813173811668.png)
 
 观察 Hippo4j-Example 控制台日志输出，日志输出包括不限于此信息即为成功。
 

@@ -49,7 +49,7 @@ spring:
 
 项目启动，访问 `http://localhost:29999/actuator/prometheus` 出现 `dynamic_thread_pool_` 前缀的指标，即为成功。
 
-![](https://images-machen.oss-cn-beijing.aliyuncs.com/image-20220912220401016.png)
+![](https://oss.open8gu.com/image-20220912220401016.png)
 
 ## 配置 Prometheus
 
@@ -83,7 +83,7 @@ scrape_configs:
 
 访问 Prometheus 控制台 `http://localhost:9090/graph` 路径，能够展示相关指标即为配置成功。
 
-![](https://images-machen.oss-cn-beijing.aliyuncs.com/image-20220912221237597.png)
+![](https://oss.open8gu.com/image-20220912221237597.png)
 
 ## 配置 Grafana
 
@@ -95,7 +95,7 @@ docker run -d -p 3000:3000 --name=grafana grafana/grafana
 
 Grafana 访问 `http://localhost:3000/datasources` 导入 Prometheus 数据源。
 
-![](https://images-machen.oss-cn-beijing.aliyuncs.com/image-20220912221646866.png)
+![](https://oss.open8gu.com/image-20220912221646866.png)
 
 > 如果 Prometheus 为 Docker 方式部署，HTTP URL 需要为本地 IP，比如：http://192.168.1.5:9090
 
@@ -103,20 +103,20 @@ Grafana 访问 `http://localhost:3000/datasources` 导入 Prometheus 数据源�
 
 |                                                    公众号                                                    |                                                           回复关键词                                                           |
 |:------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------:|
-| ![](https://images-machen.oss-cn-beijing.aliyuncs.com/43_65f6020ed111b6bb3808ec338576bd6b.png?x-oss-process=image/resize,h_300,w_400) | ![](https://images-machen.oss-cn-beijing.aliyuncs.com/image-20220327171957444.png?x-oss-process=image/resize,h_300,w_400) |
+| ![](https://oss.open8gu.com/43_65f6020ed111b6bb3808ec338576bd6b.png?x-oss-process=image/resize,h_300,w_400) | ![](https://oss.open8gu.com/image-20220327171957444.png?x-oss-process=image/resize,h_300,w_400) |
 
 获取到 JSON 文件后，通过 `http://localhost:3000/dashboard/import` 将 JSON 文件导入至 Grafana DashBoard。
 
-![](https://images-machen.oss-cn-beijing.aliyuncs.com/image-20220912225627272.png)
+![](https://oss.open8gu.com/image-20220912225627272.png)
 
 下拉框内动态选择创建好的 Prometheus 数据源，并点击 `Import`。
 
-![](https://images-machen.oss-cn-beijing.aliyuncs.com/image-20220912225700200.png)
+![](https://oss.open8gu.com/image-20220912225700200.png)
 
 即可使用炫酷的 Hippo4j 动态线程池监控 DashBoard。大家伙儿也可以根据个人喜好进行定制 DashBoard，如果觉得有优化点，欢迎和我联系贡献。
 
-![](https://images-machen.oss-cn-beijing.aliyuncs.com/image-20220912225813972.png)
+![](https://oss.open8gu.com/image-20220912225813972.png)
 
 如果项目客户端启动多个示例，动态线程池监控效果图如下：
 
-![](https://images-machen.oss-cn-beijing.aliyuncs.com/20220814_hippo4j_monitor.jpg)
+![](https://oss.open8gu.com/20220814_hippo4j_monitor.jpg)

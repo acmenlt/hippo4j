@@ -6,7 +6,7 @@ sidebar_position: 0
 
 1.1.0 版本发布后，Hippo4j 分为两种使用模式：轻量级依赖配置中心以及无中间件依赖版本。
 
-![](https://images-machen.oss-cn-beijing.aliyuncs.com/image-20220319154626314.png)
+![](https://oss.open8gu.com/image-20220319154626314.png)
 
 ### hippo4j-config
 
@@ -14,7 +14,7 @@ sidebar_position: 0
 
 > 监控功能配置详见：[线程池监控](/docs/user_docs/getting_started/config/hippo4j-config-monitor)
 
-![](https://images-machen.oss-cn-beijing.aliyuncs.com/20220814_hippo4j_monitor.jpg)
+![](https://oss.open8gu.com/20220814_hippo4j_monitor.jpg)
 
 ### hippo4j-server
 
@@ -22,7 +22,7 @@ sidebar_position: 0
 
 相比较 hippo4j-config，功能会更强大，但同时也引入了一定的复杂性。需要部署一个 Java 服务，以及依赖 MySQL 数据库。
 
-![](https://images-machen.oss-cn-beijing.aliyuncs.com/1644032018254-min.gif)
+![](https://oss.open8gu.com/1644032018254-min.gif)
 
 ### 使用总结
 

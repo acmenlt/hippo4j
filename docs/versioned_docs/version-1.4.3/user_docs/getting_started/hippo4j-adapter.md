@@ -51,7 +51,7 @@ Hippo4j 目前已支持的三方框架线程池列表：
 
 Hippo4j Server 仅需要引入上述 Jar 包，即可在 Hippo4j Server 的控制台进行查看及修改三方框架线程池。
 
-![](https://images-machen.oss-cn-beijing.aliyuncs.com/image-20220531194810047.png)
+![](https://oss.open8gu.com/image-20220531194810047.png)
 
 ## Hippo4j Config
 

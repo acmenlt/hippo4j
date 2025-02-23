@@ -354,11 +354,11 @@
     "description": "The p1 for the secondTitle part"
   },
   "homepage.secondTitleDesc2": {
-    "message": "提供了线程池动态调整、自定义警报和操作监控等功能。",
+    "message": "提供了线程池核心参数动态调整、运行告警和监控等功能。",
     "description": "The p1 for the secondTitle part"
   },
   "homepage.secondTitleDesc3": {
-    "message": "帮助提高你的业务系统的运营支持能力。",
+    "message": "帮助业务系统提高线上稳定运行能力。",
     "description": "The p2 for the secondTitle part"
   }
 }
